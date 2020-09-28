@@ -1,5 +1,7 @@
 # Irish Soda Bread
 
+![Irish soda bread](/irish_soda_bread.jpg)
+
 ## En bref
 
 Le bicarbonate de soude réagit avec l'acide lactique du lait fermenté
