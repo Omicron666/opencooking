@@ -1,8 +1,8 @@
 # Pain à la cocotte
 
-![Pain à la cocotte, miche entière](/pain_cocotte4.jpg)
+![Pain à la cocotte, miche entière](./pain_cocotte4.jpg)
 
-![Pain à la cocotte, quartier](/pain_cocotte5.jpg)
+![Pain à la cocotte, quartier](./pain_cocotte5.jpg)
 
 ## En bref
 
@@ -35,19 +35,19 @@ Pour 1 pain :
 
 * Tout mélanger dans grande jatte jusqu'à avoir une pâte collante
 
-![La pâte juste mélangée](/pain_cocotte1.jpg)
+![La pâte juste mélangée](./pain_cocotte1.jpg)
 
 * Poser un torchon propre sur la jatte et laisser reposer 8h (voire la
   nuit entière), idéalement autour de à 22-23° (ex : à côté du
   radiateur)
   
-![La pâte après 8h de repos](/pain_cocotte2.jpg)
+![La pâte après 8h de repos](./pain_cocotte2.jpg)
   
 * Travailler sur farine -> boule sèche (environ 1 min)
 * Poser sur papier sulfurisé fariné
 * Laisser reposer 1h
 
-![La boule de pâte avant entailles](/pain_cocotte3.jpg)
+![La boule de pâte avant entailles](./pain_cocotte3.jpg)
 
 * Découper le papier autour du pain
 * Entailler la boule au couteau dentelé pour éviter que le pain ne craque

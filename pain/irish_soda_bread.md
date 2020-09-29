@@ -1,6 +1,6 @@
 # Irish Soda Bread
 
-![Irish soda bread](/irish_soda_bread.jpg)
+![Irish soda bread](./irish_soda_bread.jpg)
 
 ## En bref
 

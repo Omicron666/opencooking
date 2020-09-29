@@ -1,6 +1,6 @@
 # Tarte aux mirabelles
 
-![Tarte aux mirabelles](/tarte_mirabelles.jpg)
+![Tarte aux mirabelles](./tarte_mirabelles.jpg)
 
 ## Temps
 
