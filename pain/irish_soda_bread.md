@@ -43,7 +43,6 @@ Pour 1 pain :
 * Huilez et farinez un moule à cake puis y déposer la pâte
 * Enfourner et faire cuire 45 à 50 min (à 220°C, chaleur tournante)
 
-
 ## Dégustation
 
 Tiède avec du beurre...
