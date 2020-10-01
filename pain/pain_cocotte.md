@@ -23,7 +23,7 @@ Pour 1 pain :
 * 600g farine T65
 * 450ml d'eau
 * 1 sachet levure boulangère
-* 2 cuillers à café rase de sel
+* 2 cuillières à café rase de sel
 * 100g graines mélangées selon vos goûts (sésame, pavot, tournesol,
   courge, lin, etc.)
 
