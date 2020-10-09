@@ -2,7 +2,7 @@
 
 ![Pain à la cocotte, miche entière](./pain_cocotte4.jpg)
 
-![Pain à la cocotte, quartier](./pain_cocotte5.jpg)
+![Pain à la cocotte, quartier (recette du 09/10/2020)](./pain_cocotte5.jpg)
 
 ## En bref
 
@@ -20,16 +20,16 @@ dans un torchon voire plusieurs semaines au congélateur (pré-tranché).
 
 Pour 1 pain :
 
-* 600g farine T65
+* 600g farine T80
 * 450ml d'eau
 * 1 sachet levure boulangère
-* 2 cuillers à café rase de sel
+* 3 cuillers à café rase de sel
 * 100g graines mélangées selon vos goûts (sésame, pavot, tournesol,
   courge, lin, etc.)
 
 ## Ustensile
 
-* Une cocotte en fonte avec couvercle (qui ira au four à 240°C)
+* Une cocotte en fonte avec couvercle (qui ira au four à 250°C)
 
 ## Préparation
 
@@ -51,22 +51,16 @@ Pour 1 pain :
 
 * Découper le papier autour du pain
 * Entailler la boule au couteau dentelé pour éviter que le pain ne craque
-* Sortir la cocotte en fonte du four à 245°C
+* Sortir la cocotte en fonte du four à 250°C
 * Poser le pain au fond de la cocotte (sans se brûler)
-* Mettre le couvercle et mettre au four 22 min à 245°C
-* Enlever le couvercle et remettre au four 22 min à 245°C
+* Mettre le couvercle et mettre au four 22 min à 250°C
+* Enlever le couvercle et remettre au four 22 min à 250°C
 * Sortir la cocotte du four, puis le pain de la cocotte et le laisser
   refroidir (plusieurs heures), sur une grille froide par exemple
 
-## Conclusion
-
-Le résultat est assez bluffant mais, au prochain essai, je vais tenter :
-
-* d'ajouter une 3e cuiller à café rase de sel
-* de pétrir plus longtemps pour mieux homogénéiser la mie
-* de cuire à 250°C
-
 ## Références
+
+Inspiré de:
 
 * [Popote & potager](https://www.youtube.com/watch?v=8WIQKFYTnzA)
 
