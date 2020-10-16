@@ -11,9 +11,10 @@ dans un torchon voire plusieurs semaines au congélateur (pré-tranché).
 
 ## Temps
 
-* Préparation : 15 min
+* Préparation, dont pétrissage : 15 min
 * Repos pour que la pâte lève : 8h, voire la nuit entière pour le
   lendemain matin
+* Façonnage et repos : 2 min + 1h
 * Cuisson : 45 min
 
 ## Ingrédients
@@ -23,7 +24,7 @@ Pour 1 pain :
 * 600g farine T80
 * 450ml d'eau
 * 1 sachet levure boulangère
-* 3 cuillers à café rase de sel
+* 3 cuillers à café rases de sel
 * 100g graines mélangées selon vos goûts (sésame, pavot, tournesol,
   courge, lin, etc.)
 
@@ -34,6 +35,7 @@ Pour 1 pain :
 ## Préparation
 
 * Tout mélanger dans grande jatte jusqu'à avoir une pâte collante
+* Pétrir la pâte jusqu’à l’obtention d’une pâte homogène qui se décolle du fond
 
 ![La pâte juste mélangée](./pain_cocotte1.jpg)
 
@@ -42,8 +44,10 @@ Pour 1 pain :
   radiateur)
   
 ![La pâte après 8h de repos](./pain_cocotte2.jpg)
-  
-* Travailler sur farine -> boule sèche (environ 1 min)
+
+* Dégazer la pâte en appuyant dessus et la façonner sur un lit de
+  farine jusqu'à obtenir une boule sèche ou à peine humide (environ 1
+  min)
 * Poser sur papier sulfurisé fariné
 * Laisser reposer 1h
 
